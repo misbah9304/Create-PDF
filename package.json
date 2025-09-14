@@ -1,0 +1,15 @@
+{
+  "name": "practicereact",
+  "version": "1.0.0",
+  "description": "learning react today",
+  "main": "modules.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "pdf-creator-node": "^2.3.5"
+  }
+}
